@@ -1,0 +1,2 @@
+obj\Debug\net8.0\Protos/FileService.cs \
+obj\Debug\net8.0\Protos/FileServiceGrpc.cs: Protos/file_service.proto
